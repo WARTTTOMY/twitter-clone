@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native / mobile
+/mobile/node_modules/
+mobile/android/
+mobile/ios/
+mobile/.gradle/
+mobile/.expo/
+
+# Strapi / backend
+/backend/node_modules/
+backend/.cache/
+backend/build/
+
+# Misc
+.env
+.DS_Store
